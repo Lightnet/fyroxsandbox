@@ -23,9 +23,6 @@ cargo run --package editor --release
 ```
 cargo run --package executor --release
 ```
-```
-cargo run --package editor --release
-```
 
 # refs:
  * https://github.com/FyroxEngine/Fyrox

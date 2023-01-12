@@ -1,4 +1,5 @@
 //! Game project.
+//! 
 use fyrox::{
     core::{
         futures::executor::block_on,
